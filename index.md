@@ -1,4 +1,4 @@
-Privacy Policy
+MoodWidget Privacy Policy
 
 Overview  
 MoodWidget allows users to log moods using widgets and optionally sync those entries to Apple Health (State of Mind). By default, all data is stored locally on the device and is not transmitted off-device.
