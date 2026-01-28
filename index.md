@@ -18,7 +18,7 @@ All data is stored locally on the device. Data remains until deleted by the user
 Security  
 Data is stored using iOS system protections. MoodWidget does not operate any external servers.
 
-Non-Medical Use  
+Non-Medical Use    
 MoodWidget is intended for personal reflection only and is not a medical or diagnostic tool.
 
 Contact  
