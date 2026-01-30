@@ -9,11 +9,11 @@ Mood selections and timestamps. No accounts, names, email addresses, or personal
 **Health Data (Apple Health / State of Mind)**
 If enabled by the user, MoodWidget may read and write State of Mind data from Apple Health using Apple’s HealthKit framework.
 
-   Write: Mood entries logged in MoodWidget can be saved to Apple Health.
+-Write: Mood entries logged in MoodWidget can be saved to Apple Health.
 
-   Read (Import): Existing State of Mind entries from Apple Health may be imported into MoodWidget to populate history, charts, and trends.
+-Read (Import): Existing State of Mind entries from Apple Health may be imported into MoodWidget to populate history, charts, and trends.
 
-   Health data access is optional, explicitly authorized by the user, and handled entirely on-device. MoodWidget does not access health data without user consent and does not transmit         health data off the device.
+-Health data access is optional, explicitly authorized by the user, and handled entirely on-device. MoodWidget does not access health data without user consent and does not transmit         health data off the device.
 
 **Data Use**
 Data is used only to display mood history, streaks, trends, and visualizations within the app. Data is not sold, shared, or used for advertising.
